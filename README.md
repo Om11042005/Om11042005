@@ -25,4 +25,4 @@ When I’m not programming, you’ll find me on the cricket pitch, hitting the g
 
 ---
 
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Om11042005&show_icons=true&theme=tokyonight)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ompatel1104&theme=tokyonight)
