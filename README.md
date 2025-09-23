@@ -14,9 +14,9 @@ A fitness tracking application designed to help users monitor their workouts and
 
 ## 🌐 Connect with Me
 Find me on:
-- [Instagram](your-instagram-link)
-- [Facebook](your-facebook-link)
-- [Twitter](your-twitter-link)
+- [Instagram](https://www.instagram.com/ompatel__1104/)
+- [Facebook](https://www.facebook.com/om.patel.908562)
+- [Twitter](https://x.com/Ompatel80276523)
 
 *(Links are as provided in my GitHub profile)*
 
